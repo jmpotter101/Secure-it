@@ -1,2 +1,5 @@
 # Secure-it
-Server management software for windows, Mac, and Linux
+
+## Current Software:
+
+- Server management software for Windows, Mac, and Linux
